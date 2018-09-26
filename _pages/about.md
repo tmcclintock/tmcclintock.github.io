@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 classes: thin
 ---
-Test. Hello! I am a postdoctoral researcher at Brookhaven National Lab in the astrophysics group. I completed my PhD at the University of Arizona working under Professor [Eduardo Rozo](http://w3.physics.arizona.edu/people/eduardo-rozo). I also completed a MSc in high performance computing at the University of Edinburgh, and obtained my BA from Amherst College.
+:math:`y=mx_b`. Hello! I am a postdoctoral researcher at Brookhaven National Lab in the astrophysics group. I completed my PhD at the University of Arizona working under Professor [Eduardo Rozo](http://w3.physics.arizona.edu/people/eduardo-rozo). I also completed a MSc in high performance computing at the University of Edinburgh, and obtained my BA from Amherst College.
 
 I strongly advocate for inclusiveness and a positive student experience in research.
 
