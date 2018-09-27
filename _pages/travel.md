@@ -14,7 +14,7 @@ I am currently based on Long Island, NY and I frequently hop around. Your best c
 
 | :---------:| :----------------------------- |
 | Dec 16-22 | South American Workshop on Cosmology in the LSST Era @ Sao Paulo (Brazil) |
-| Nov 26 | Astronomy Colloquium & Princeton (USA) |
+| Nov 26 | Astronomy Colloquium @ Princeton (USA) |
 | Oct 21-27 | DESC Sprint week @ University of Edinburgh (UK) |
 | Oct 11-13 | Dark Universe Seminar @ Brandeis (USA) |
 | Oct 5 | Lightning Talk @ NYU (USA) |
