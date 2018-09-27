@@ -67,11 +67,9 @@ Best Graduate Student Physics Seminar, *Spring 2016*<br>
 
 ## Teaching
 ---
-**Fall 2014**<br>
-Primary Instructor, *Introduction to Scientific Computing - Phys 105*<br>
-**Spring 2013, Fall 2014 & Spring 2014**<br>
-Teaching Assistant, *Computational Physics - Phys 305*<br>
 **Spring 2013 - Fall 2015**<br>
-Teaching Assistant, *Introduction to Scientific Computing - Phys 105*<br>
+Primary Instructor, *[Introduction to Scientific Computing - Phys 105]({{site.url}}/pages/teaching/phys105)*<br>
+**Spring 2013, Fall 2014 & Spring 2014**<br>
+Teaching Assistant, *[Computational Physics - Phys 305]({{site.url}}/pages/teaching/phys305)*<br>
 **Fall 2013 - Fall 2014**<br>
-Lab Instructor, *Optics and E&M Lab - Phys 182*
+Lab Instructor, *[Optics and E&M Lab - Phys 182]({{site.url}}/pages/teaching/phys182)*

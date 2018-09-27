@@ -1,2 +1,3 @@
 # tmcclintock.github.io
-my website
+[my website](tmcclintock.github.io)
+

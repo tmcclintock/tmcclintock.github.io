@@ -38,14 +38,4 @@ var store = [{
         "excerpt":"In this talk I discussed the work done in McClintock+ (2018a,b) and in my PhD thesis. I presented our constraints on the mass–richness relation of redMaPPer clusters identified in the Dark Energy Survey, and discussed systematics relevant to those at Fermilab including mass bias, projection effects, and cluster centering. Lastly,...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/talks/fermilab_colloquium/",
-        "teaser":null},{
-        "title": "Primary Instructor - Introduction to Scientific Computing - Physics 105",
-        "excerpt":"Designed and delivered lectures introducing students to the principles of scientific computing. No prior programming knowledge was assumed. The class was taught in C and Python, and algorithms included numerical integration, data visualization, and basic animation. Emphasis was placed on working with physical systems familiar to the students from physics...","categories": [],
-        "tags": [],
-        "url": "http://localhost:4000/teaching/phys105",
-        "teaser":null},{
-        "title": "Instructor - Optics and Electromagnetism Lab - Physics 182",
-        "excerpt":"Lectured and ran a laboratory class for undergraduate students. Topics included electronics, optics, and electromagnetism. ","categories": [],
-        "tags": [],
-        "url": "http://localhost:4000/teaching/phys182",
-        "teaser":null}]
+        "teaser":null},]
