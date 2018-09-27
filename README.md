@@ -1,3 +1,3 @@
 # tmcclintock.github.io
-[my website](tmcclintock.github.io)
+[https://tmcclintock.github.io/](https://tmcclintock.github.io/)
 
