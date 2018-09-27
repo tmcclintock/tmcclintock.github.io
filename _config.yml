@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Tom McClintock"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/jazzcup.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Postdoc in astrophysics working at Brookhaven National Lab."
   location         : "Long Island, NY"
   employer         : "Brookhaven National Lab"

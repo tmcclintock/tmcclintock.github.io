@@ -6,7 +6,7 @@ author_profile: true
 classes: thin
 ---
 
-I am currently based on Long Island, NY and I frequently hop around. Your best chance to catch me in person is to either be in New York or in one of the places I am visiting. You might find me at one of these places at these times.
+I am currently based on Long Island, NY and I frequently hop around. Your best chance to catch me in person is to either be in New York or in one of the places I am visiting. Here is my (professional) travel schedule:
 
 ## 2018
 
