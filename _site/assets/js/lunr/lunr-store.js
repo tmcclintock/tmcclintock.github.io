@@ -9,6 +9,11 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/code/cluster_toolkit",
         "teaser":null},{
+        "title": "Test post please ignore",
+        "excerpt":"Test words in the blog post. Headings are cool You can have many headings Aren’t headings cool? ","categories": [],
+        "tags": ["cool posts","category1","category2"],
+        "url": "http://localhost:4000/posts/mytest/",
+        "teaser":null},{
         "title": "Weak Lensing Measurement of the Mass--Richness Relation of SDSS redMaPPer Clusters",
         "excerpt":"Summary Used the SDSS redMaPPer catalog to constrain the mass–richness relation of galaxy clusters. Contribution I provided simulated lensing signals used to calibrate the mass bias in the primary analysis code. The mass bias accounts for differences between the model used and the true distribution of matter in the gravitational...","categories": [],
         "tags": [],

@@ -9,6 +9,10 @@
 <lastmod>2018-05-24T00:00:00-04:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/posts/mytest/</loc>
+<lastmod>2018-09-26T00:00:00-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/publications/SDSS_RM_WL</loc>
 <lastmod>2017-04-03T00:00:00-04:00</lastmod>
 </url>
@@ -34,6 +38,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/code/</loc>
