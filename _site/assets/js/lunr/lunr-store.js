@@ -10,7 +10,7 @@ var store = [{
         "url": "http://localhost:4000/code/cluster_toolkit",
         "teaser":null},{
         "title": "Test post please ignore",
-        "excerpt":"Test words in the blog post. Headings are cool You can have many headings Aren’t headings cool? ","categories": [],
+        "excerpt":"This is in progress! ","categories": [],
         "tags": ["cool posts","category1","category2"],
         "url": "http://localhost:4000/posts/mytest/",
         "teaser":null},{
