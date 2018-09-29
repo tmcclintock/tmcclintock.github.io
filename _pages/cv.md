@@ -45,6 +45,11 @@ Amherst College<br>
 ---
 **2013 - Present**<br>
 Outreach<br>
+Arizona [Women in Physics](http://w3.physics.arizona.edu/story/women-physics) club secretary \& treasurer (Spring 2016-Fall 2017)<br>
+DES [Early Career Scientist](https://www.darkenergysurvey.org/the-des-project/for-des-members/des-ecs/) representative (Spring 2016-Spring 2017)<br>
+UA Physics graduate student council representative (Fall 2013-Spring 2015)<br>
+UA [Graduate And Professional Student Council](https://www.gpsc.arizona.edu/) elected representative (Fall 2014-Spring 2015)<br>
+Cosmology journal club organizer<br>
 
 
 ## Publications
@@ -58,12 +63,6 @@ Outreach<br>
 Galileo Circle Scholar, *Spring 2017 & 2018*<br>
 College of Science Teaching Award, *Spring 2017*<br>
 Best Graduate Student Physics Seminar, *Spring 2016*<br>
-
-
-## Talks and Presentations
----
-"Galaxy clusters in the Dark Energy Survey", Fermilab Colloquium, *May 2018*
-
 
 ## Teaching
 ---
