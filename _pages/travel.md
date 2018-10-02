@@ -8,6 +8,13 @@ classes: thin
 
 I am currently based on Long Island, NY and I frequently hop around. Your best chance to catch me in person is to either be in New York or in one of the places I am visiting. Here is my (professional) travel schedule:
 
+## 2019
+
+### Dates & locations
+
+| :---------:| :----------------------------- |
+| Jul 14-20 | LSST-DESC Collaboration meeting @ Paris Diderot University (France) |
+
 ## 2018
 
 ### Dates & locations
