@@ -9,9 +9,9 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/code/cluster_toolkit",
         "teaser":null},{
-        "title": "Test post please ignore",
-        "excerpt":"This is in progress! ","categories": [],
-        "tags": ["cool posts","category1","category2"],
+        "title": "Dark matter halo profiles pt. 1",
+        "excerpt":"Galaxy clusters live in dark matter halos. Assuming a spherical matter distribution, the halo density profile can be described with two numbers: the mass $M$ and concentration $c$. This is the first in a series of posts going through the basic maths behind dealing with density profiles. Here, I will...","categories": [],
+        "tags": ["galaxy clusters","dark matter halos","simulations"],
         "url": "http://localhost:4000/posts/mytest/",
         "teaser":null},{
         "title": "Weak Lensing Measurement of the Mass--Richness Relation of SDSS redMaPPer Clusters",
