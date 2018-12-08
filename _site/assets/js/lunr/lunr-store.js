@@ -10,7 +10,7 @@ var store = [{
         "url": "http://localhost:4000/code/cluster_toolkit",
         "teaser":null},{
         "title": "Dark matter halo profiles pt. 1",
-        "excerpt":"Galaxy clusters live in dark matter halos. Assuming a spherical matter distribution, the halo density profile can be described with two numbers: the mass $M$ and concentration $c$. This is the first in a series of posts going through the basic maths behind dealing with density profiles. Here, I will...","categories": [],
+        "excerpt":"Galaxy clusters live in dark matter halos. Assuming a spherical matter distribution, the 3D halo density profile can be described with two numbers: the mass $M$ and concentration $c$. This is the first in a series of posts going through the basic maths behind dealing with density profiles, which are...","categories": [],
         "tags": ["galaxy clusters","dark matter halos","simulations"],
         "url": "http://localhost:4000/posts/mytest/",
         "teaser":null},{
