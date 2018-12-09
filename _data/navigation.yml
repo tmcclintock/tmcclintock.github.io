@@ -12,5 +12,7 @@ main:
     url: /code/
   - title: "CV"
     url: /cv/
+  - title: "Notes"
+    url: /notes/
   - title: "Travel"
     url: /travel/

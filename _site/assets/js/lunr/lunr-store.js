@@ -9,10 +9,15 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/code/cluster_toolkit",
         "teaser":null},{
+        "title": "Cluster Cosmology Constraints from the 2500 deg2 SPT-SZ Survey: Inclusion of Weak Gravitational Lensing Data from Magellan and the Hubble Space Telescope",
+        "excerpt":"SPT Galaxy cluster cosmology Bocquet S., et al. (2018). Cluster Cosmology Constraints from the 2500 deg2 SPT-SZ Survey: Inclusion of Weak Gravitational Lensing Data from Magellan and the Hubble Space Telescope. arXiv:1812.01679 Notes about the paper. ","categories": [],
+        "tags": ["galaxy clusters","dark matter halos","cosmology"],
+        "url": "http://localhost:4000/notes/SPTClusterCosmo",
+        "teaser":null},{
         "title": "Dark matter halo profiles pt. 1",
         "excerpt":"Galaxy clusters live in dark matter halos. Assuming a spherical matter distribution, the 3D halo density profile can be described with two numbers: the mass $M$ and concentration $c$. This is the first in a series of posts going through the basic maths behind dealing with density profiles, which are...","categories": [],
         "tags": ["galaxy clusters","dark matter halos","simulations"],
-        "url": "http://localhost:4000/posts/mytest/",
+        "url": "http://localhost:4000/posts/DMprofiles_pt1",
         "teaser":null},{
         "title": "Weak Lensing Measurement of the Mass--Richness Relation of SDSS redMaPPer Clusters",
         "excerpt":"Summary Used the SDSS redMaPPer catalog to constrain the mass–richness relation of galaxy clusters. Contribution I provided simulated lensing signals used to calibrate the mass bias in the primary analysis code. The mass bias accounts for differences between the model used and the true distribution of matter in the gravitational...","categories": [],
