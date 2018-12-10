@@ -10,7 +10,7 @@ var store = [{
         "url": "http://localhost:4000/code/cluster_toolkit",
         "teaser":null},{
         "title": "Cluster Cosmology Constraints from the 2500 deg2 SPT-SZ Survey: Inclusion of Weak Gravitational Lensing Data from Magellan and the Hubble Space Telescope",
-        "excerpt":"SPT Galaxy cluster cosmology Bocquet S., et al. (2018). Cluster Cosmology Constraints from the 2500 deg2 SPT-SZ Survey: Inclusion of Weak Gravitational Lensing Data from Magellan and the Hubble Space Telescope. arXiv:1812.01679 Notes about the paper. ","categories": [],
+        "excerpt":"SPT Galaxy cluster cosmology Bocquet S., et al. (2018). Cluster Cosmology Constraints from the 2500 deg2 SPT-SZ Survey: Inclusion of Weak Gravitational Lensing Data from Magellan and the Hubble Space Telescope. arXiv:1812.01679 Background Experiments like the South Pole Telescope (SPT) originally set out to do cosmology via clusters. Then, Planck...","categories": [],
         "tags": ["galaxy clusters","dark matter halos","cosmology"],
         "url": "http://localhost:4000/notes/SPTClusterCosmo",
         "teaser":null},{
