@@ -48,4 +48,9 @@ var store = [{
         "excerpt":"In this talk I discussed the work done in McClintock+ (2018a,b) and in my PhD thesis. I presented our constraints on the mass–richness relation of redMaPPer clusters identified in the Dark Energy Survey, and discussed systematics relevant to those at Fermilab including mass bias, projection effects, and cluster centering. Lastly,...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/talks/fermilab_colloquium/",
+        "teaser":null},{
+        "title": "Galaxy cluster cosmology in the LSST Era",
+        "excerpt":"I presented these slidse at the South American Workshop on Cosmology in the LSST Era, where I connected the efforts of collaborations such as DES to what will be required during LSST for cluster cosmology. Overall, the workshop was a blast, and you can find a link to a video...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/talks/saopaulo2018/",
         "teaser":null},]
