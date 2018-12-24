@@ -49,7 +49,12 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/talks/fermilab_colloquium/",
         "teaser":null},{
-        "title": "Galaxy cluster cosmology in the LSST Era",
+        "title": "Amhert College Physics Colloquium: Galaxy clusters in the Dark Energy Survey",
+        "excerpt":"In this colloquium I gave a non-technical talk geared toward the undergrad physics majors in the audience about cosmology, galaxy clusters, and survey science. I start with the obligatory introduction about what cosmology is (the study of the Universe), what kind of things we care about (expansion history and formation...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/talks/amherst2018/",
+        "teaser":null},{
+        "title": "Sao Paulo Workshop: Galaxy cluster cosmology in the LSST Era",
         "excerpt":"I presented these slidse at the South American Workshop on Cosmology in the LSST Era, where I connected the efforts of collaborations such as DES to what will be required during LSST for cluster cosmology. Overall, the workshop was a blast, and you can find a link to a video...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/talks/saopaulo2018/",
