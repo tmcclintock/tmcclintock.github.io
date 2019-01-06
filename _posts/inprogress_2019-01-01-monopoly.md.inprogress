@@ -1,0 +1,20 @@
+---
+layout: single
+title: 'Monopoly math'
+date: 2019-01-01
+permalink: /posts/MonopolyMath
+tags:
+  - boardgames
+  - mathematics
+author_profile: false
+classes: thin
+read_time: true
+---
+
+Monopoly is one of the first boardgames that we learn as children. It teaches us basic arithmetic skills, how to negotiate, and of course how to lose. As far as design goes however, Monopoly is a very outdated game, having been surpassed in overall quality by hundreds of games that encourage things like player interaction, decision making, and unique game mechanics. Monopoly has one thing going for it though, which is that is very straightforward to describe mathematically. To me, the maths behind Monopoly are actually quite beautiful in their compactness and interpretability. This post will explore those mathematics, present evidence for the optimal strategy, and end by commenting on how games in general can be thought about mathematically to hopefully enhance their design.
+
+If you are not interested in the pure maths and programming behind this project, then feel free to skip to section 3, which discusses the optimal strategies for the early and ending phases of the game. For the math and science nerds like me section 1 presents Monopoly in terms of finite states, linear algebra and basic probability. Section 2 details a little bit about the implementation of the math here as well as a simulation of the game for comparison purposes. In that section you can find some figures and definitions for things like "value" of different properties and property groups. Finally, section 4 contains a brief discussion about the kind of mathematics that exist in other (more modern) games, and how one can think about game design mathematically.
+
+## Section 1 - the gorey details
+
+Hah! You decided to read the math section. Poor decision.
